@@ -3,6 +3,8 @@
    * Váriavel para salvar País e capital
    * @name $location
    */
+
+   
   $location = array(
     "Brasil"      => "Brasília",
     "EUA"         => "Washington",
